@@ -1,5 +1,4 @@
-# Customer-Spending-Analysis
-This project, Customer Spending Analysis, provides data-driven insights into customer behavior by analyzing purchase frequency, total monetary spend, and sales distribution across product categories.
+
 # 📊 Customer Spending Analysis Project
 
 This repository contains the code and analysis for a deep dive into customer spending and purchasing behavior. The goal is to identify high-value customers, understand purchase frequency, and analyze sales distribution across different product categories to inform strategic business decisions.
