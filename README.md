@@ -59,30 +59,3 @@ The analysis was executed in distinct phases, resulting in the following key ins
 | **Clothing** | **7780** |
 | Electronics | 5700 |
 | Groceries | 5600 |
-
----
-
-## 🚀 How to Run the Project
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [YOUR_REPO_URL]
-    cd customer-spending-analysis
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install pandas matplotlib
-    ```
-3.  **Execute the Analysis Script:**
-    *(Assuming your main script is named `analysis.py`)*
-    ```bash
-    python analysis.py
-    ```
-
----
-
-## ✨ Future Enhancements
-
-* Implement a full **RFM (Recency, Frequency, Monetary)** segmentation model.
-* Conduct **Cohort Analysis** to track customer value over time.
-* Integrate a machine learning model to predict **Customer Lifetime Value (CLV)**.
